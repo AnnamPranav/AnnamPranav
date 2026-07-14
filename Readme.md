@@ -32,11 +32,8 @@ I enjoy designing and building projects that create meaningful impact through en
 <br>
 
 ![Innovator](https://img.shields.io/badge/🚀-Innovator-success?style=for-the-badge)
-
 ![Problem Solver](https://img.shields.io/badge/⚡-Problem%20Solver-orange?style=for-the-badge)
-
 ![Impact Driven](https://img.shields.io/badge/🌱-Impact%20Driven-brightgreen?style=for-the-badge)
-
 ![Continuous Learning](https://img.shields.io/badge/📚-Continuous%20Learner-blue?style=for-the-badge)
 
 </td>
