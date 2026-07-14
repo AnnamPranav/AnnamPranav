@@ -1,161 +1,105 @@
-<h1 align="center">
-Hi 👋, I'm A. Pranav Reddy
-</h1>
+<h1 align="center">Hi 👋, I'm A. Pranav Reddy</h1>
 
 <h3 align="center">
-🚀 Computer Science Engineering Student • Software Developer • IoT Builder • Computer Vision Enthusiast
+Innovation-Driven Computer Science Engineering Student from India 🇮🇳
 </h3>
 
 <p align="center">
-Building technology that solves real-world problems through software, embedded systems, and intelligent automation.
-</p>
-
-<p align="center">
-💡 Curious Builder • ⚙️ Problem Solver • 🌍 Innovation Driven • 📈 Continuous Learner
+I enjoy transforming ideas into practical technology that solves real-world problems.
+My interests include Software Development, IoT, Computer Vision, Embedded Systems, and Data Analytics.
+I believe innovation comes from curiosity, continuous learning, and building solutions that create meaningful impact.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Computer Science Engineering student passionate about transforming ideas into working products.
-
-I enjoy designing software, embedded systems, IoT devices, and computer vision applications that solve practical challenges.
-
-Rather than building projects for demonstration alone, I focus on creating solutions that are reliable, scalable, and useful.
-
-## 🎯 What Defines Me
-
-- 💡 Innovation-driven mindset
-- 🚀 Turning ideas into working prototypes
-- 🧩 Solving real-world engineering problems
-- ⚡ Fast learner with strong curiosity
-- 🔬 Love experimenting with emerging technologies
-- 🌱 Continuous improvement every day
+- 💡 Innovation-driven developer passionate about solving real-world problems.
+- 🧠 Curious engineer who enjoys learning new technologies.
+- 💻 Building software, embedded systems, and IoT projects.
+- 🌱 Currently learning
+  - System Design
+  - Cloud Computing
+  - Computer Vision
+  - Embedded Systems
+  - Data Structures & Algorithms
+- 🎯 Goal: Build technology that improves everyday life.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-Python • Java • C++ • JavaScript • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Software Development
+### Frameworks & Tools
 
-React • Firebase • Git • GitHub • REST APIs
-
-### Computer Vision
-
-OpenCV • YOLO • EasyOCR
-
-### IoT & Embedded Systems
-
-ESP32 • Arduino • Sensors • MQTT
-
-### Tools
-
-VS Code • Android Studio • Figma • Canva
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 ---
 
-# 🚀 Featured Projects
+## 🌟 Featured Projects
 
-## 🌿 Smart BioFilter AQI Monitor
+### 🌿 Smart BioFilter AQI Monitor
+Plant-based indoor air purification system with multi-stage filtration and real-time environmental monitoring.
 
-Plant-based indoor air purification system with:
+### 📶 Wi-Fi Human Detection
+Human presence detection using Wi-Fi signal analysis with ESP32 hardware.
 
-✔ Multi-stage filtration
+### 🚗 License Plate Detection & OCR
+Automatic number plate detection and text recognition using computer vision.
 
-✔ Real-time AQI monitoring
+### 🔥 Fire & Smoke Detection
+Real-time fire and smoke detection system for safety monitoring.
 
-✔ Environmental sensing
-
-✔ ESP32-based automation
-
----
-
-## 📶 Wi-Fi Human Detection
-
-Human presence detection using Wi-Fi signal analysis and ESP32 hardware.
+### ⚡ Power Grid Analytics
+Python-based analytics and visualization for electrical power systems.
 
 ---
 
-## 🚗 License Plate Detection & OCR
-
-Automatic vehicle number plate detection and text recognition using computer vision.
-
----
-
-## 🔥 Fire & Smoke Detection
-
-Real-time fire detection system using deep learning for early safety alerts.
-
----
-
-## ⚡ Power Grid Analytics
-
-Python application for electrical power system monitoring and visualization.
-
----
-
-# 📈 Currently Learning
-
-- System Design
-- Cloud Computing
-- Advanced Computer Vision
-- Embedded AI
-- ROS
-- Docker
-- AWS
-- Data Structures & Algorithms
-
----
-
-# 🎯 Mission
-
-> Build technology that improves everyday life through practical engineering, innovation, and continuous learning.
-
----
-
-# 📊 GitHub Stats
-
-(Add GitHub Stats Card)
-
-(Add GitHub Streak)
-
-(Add Top Languages)
-
-(Add Contribution Graph)
-
----
-
-# 🌍 Let's Connect
-
-💼 LinkedIn
-
-🌐 Portfolio
-
-📧 Email
-
----
-
-# ⚡ Beyond Coding
-
-🏃 Continuous Learning
-
-📚 Reading Technology
-
-🔬 Building Prototypes
-
-🌱 Exploring New Ideas
-
-🤝 Collaborating on Innovative Projects
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-
-"Every project begins with curiosity and grows through persistence."
-
+<img src="https://github-readme-stats.vercel.app/api?username=AnnamPranav&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnamPranav&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamPranav&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 What Drives Me
+
+> "Great technology isn't just about writing code—it's about solving problems that matter."
+
+I enjoy taking an idea from concept to a working prototype by combining software, hardware, and practical engineering.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- 🌐 Portfolio: https://YOUR_WEBSITE
+- 📧 Email: YOUR_EMAIL
+
+---
+
+## ⚡ Fun Fact
+
+I love building projects that combine software, electronics, and intelligent systems to solve everyday challenges.
