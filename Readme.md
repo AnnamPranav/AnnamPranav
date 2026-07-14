@@ -29,13 +29,17 @@ I enjoy turning ideas into practical technology that creates real-world impact. 
 
 ---
 
-### 📌 Featured Projects
+ 🌟 Featured Projects
 
-- 🌿 Smart BioFilter AQI Monitor
-- 📶 Wi-Fi Human Detection using ESP32
-- 🚗 License Plate Detection & OCR
-- 🔥 Fire & Smoke Detection
-- ⚡ Power Grid Analytics
+| Project | Description |
+|---------|-------------|
+| 🌿 Smart BioFilter AQI Monitor | Plant-based indoor air purifier with real-time AQI monitoring |
+| 📶 Wi-Fi Human Detection | Human detection using Wi-Fi CSI and ESP32 |
+| 🚗 License Plate Detection & OCR | Automatic vehicle plate recognition using YOLO and OCR |
+| 🔥 Fire & Smoke Detection | Real-time fire detection using Deep Learning |
+| ⚡ Power Grid Analytics | Python-based power grid monitoring and visualization |
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
+
 
 ---
 
