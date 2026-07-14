@@ -13,7 +13,7 @@ I enjoy turning ideas into practical technology that creates real-world impact. 
 ### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,react,firebase,nodejs,opencv,arduino,esp,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,firebase,nodejs,opencv,arduino,git,github,vscode,mysql" />
 </p>
 
 ---
