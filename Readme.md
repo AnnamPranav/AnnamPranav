@@ -68,7 +68,7 @@ Python-based analytics and visualization for electrical power systems.
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AnnamPranav&show_icons=true&theme=tokyonight" />
@@ -80,7 +80,7 @@ Python-based analytics and visualization for electrical power systems.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamPranav&layout=compact&theme=tokyonight" />
-</p>
+</p>-->
 
 ---
 
@@ -94,9 +94,9 @@ I enjoy taking an idea from concept to a working prototype by combining software
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: https://YOUR_WEBSITE
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/pranav-annam-65b283218/
+<!-- - 🌐 Portfolio: https://YOUR_WEBSITE -->
+- 📧 Email: annampranav05@gmail.com
 
 ---
 
