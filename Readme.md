@@ -1,105 +1,87 @@
-<h1 align="center">Hi 👋, I'm A. Pranav Reddy</h1>
+## Hi, I'm Pranav 👋
 
-<h3 align="center">
-Innovation-Driven Computer Science Engineering Student from India 🇮🇳
-</h3>
+I build software, IoT systems, and intelligent solutions that solve real-world problems.
 
-<p align="center">
-I enjoy transforming ideas into practical technology that solves real-world problems.
-My interests include Software Development, IoT, Computer Vision, Embedded Systems, and Data Analytics.
-I believe innovation comes from curiosity, continuous learning, and building solutions that create meaningful impact.
+---
+
+### 🚀 What Drives Me
+
+I enjoy turning ideas into practical technology that creates real-world impact. I'm passionate about innovation, solving challenging problems, and continuously learning new technologies to build meaningful solutions.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,firebase,nodejs,opencv,arduino,git,github,vscode,mysql" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 Currently Learning
 
-- 💡 Innovation-driven developer passionate about solving real-world problems.
-- 🧠 Curious engineer who enjoys learning new technologies.
-- 💻 Building software, embedded systems, and IoT projects.
-- 🌱 Currently learning
-  - System Design
-  - Cloud Computing
-  - Computer Vision
-  - Embedded Systems
-  - Data Structures & Algorithms
-- 🎯 Goal: Build technology that improves everyday life.
+- 🏗️ System Design
+- ☁️ Cloud Computing (AWS)
+- 👁️ Computer Vision
+- 📊 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 📡 IoT & Embedded Systems
 
 ---
 
-## 🛠 Tech Stack
+### 📌 Featured Projects
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+- 🌿 Smart BioFilter AQI Monitor
+- 📶 Wi-Fi Human Detection using ESP32
+- 🚗 License Plate Detection & OCR
+- 🔥 Fire & Smoke Detection
+- ⚡ Power Grid Analytics
 
 ---
 
-## 🌟 Featured Projects
+### 🌐 Let's Connect
 
-### 🌿 Smart BioFilter AQI Monitor
-Plant-based indoor air purification system with multi-stage filtration and real-time environmental monitoring.
-
-### 📶 Wi-Fi Human Detection
-Human presence detection using Wi-Fi signal analysis with ESP32 hardware.
-
-### 🚗 License Plate Detection & OCR
-Automatic number plate detection and text recognition using computer vision.
-
-### 🔥 Fire & Smoke Detection
-Real-time fire and smoke detection system for safety monitoring.
-
-### ⚡ Power Grid Analytics
-Python-based analytics and visualization for electrical power systems.
-
----
-
-<!--## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnnamPranav&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnamPranav&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamPranav&layout=compact&theme=tokyonight" />
-</p>-->
-
----
-
-## 🏆 What Drives Me
-
-> "Great technology isn't just about writing code—it's about solving problems that matter."
-
-I enjoy taking an idea from concept to a working prototype by combining software, hardware, and practical engineering.
-
----
-
-## 📫 Connect With Me
-
+<!-- - 🌍 Portfolio: https://yourportfolio.com -->
 - 💼 LinkedIn: https://www.linkedin.com/in/pranav-annam-65b283218/
-<!-- - 🌐 Portfolio: https://YOUR_WEBSITE -->
 - 📧 Email: annampranav05@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+### 📊 GitHub Stats
 
-I love building projects that combine software, electronics, and intelligent systems to solve everyday challenges.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnnamPranav&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamPranav&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnamPranav&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnnamPranav&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnamPranav&theme=tokyo-night" />
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AnnamPranav&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+> **"Innovation starts with curiosity, grows through learning, and creates impact through execution."** 🚀
