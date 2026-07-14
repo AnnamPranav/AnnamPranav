@@ -46,7 +46,7 @@ I enjoy turning ideas into practical technology that creates real-world impact. 
 - 📧 Email: annampranav05@gmail.com
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -82,6 +82,6 @@ I enjoy turning ideas into practical technology that creates real-world impact. 
 <img src="https://komarev.com/ghpvc/?username=AnnamPranav&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+--- -->
 
 > **"Innovation starts with curiosity, grows through learning, and creates impact through execution."** 🚀
